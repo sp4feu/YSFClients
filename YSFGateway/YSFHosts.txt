@@ -563,7 +563,7 @@
 45956;PL-HBL-Kutno;HBLink Kutno;77.237.7.125;42078;001;https://ysf.hblink.kutno.pl/
 38145;PL-HBL-MultiLink;Multimode Link;77.55.209.188;42000;001;https://ysf.hblink.network/
 63113;PL-HBL260;YSF-HBL260;77.55.209.188;42078;001;https://ysf-hbl260.hblink.network/
-68368;PL-HBLink;HBLink Polska;80.211.208.227;42080;000;https://ysf.hblink.pl
+68368;PL-HBLink;HBLink Polska;54.37.138.47;42080;000;https://ysf.hblink.pl
 56899;PL-HBLSilesia;YSF-HBlink;91.201.88.18;42234;001;http://
 29114;PL-POLAND;YSF PL POLAND;80.211.251.171;42025;043;http://
 15495;PL-POLSKA;POLSKA WIRESX;155.133.14.66;42026;018;http://
